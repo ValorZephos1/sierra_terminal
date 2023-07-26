@@ -238,7 +238,7 @@ help = [
 
 banner = [
   "<br>",
-  '<span class="color2">COPYRIGHT 2022 (C) SIERRA INDUSTRIES. ALL RIGHTS RESERVED.</span>',
+  '<span class="color2">COPYRIGHT 2023 (C) SIERRA INDUSTRIES. ALL RIGHTS RESERVED.</span>',
   "<br>",
   '<span class="color2">ACCESS GRANTED... SIERRA INDUSTRIES TERMINAL.</span>',
   "<br>",
